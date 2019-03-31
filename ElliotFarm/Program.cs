@@ -10,6 +10,7 @@ namespace ElliotFarm
     {
         static void Main(string[] args)
         {
+            new Run().RunFarm();
         }
     }
 }
