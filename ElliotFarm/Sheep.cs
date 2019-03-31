@@ -29,7 +29,7 @@ namespace ElliotFarm
                                                                ";
 
             Console.WriteLine(sheep);
-            Console.Clear();
+            
             Console.WriteLine("");
         }
 

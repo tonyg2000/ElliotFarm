@@ -160,11 +160,11 @@ namespace ElliotFarm
                     case ConsoleKey.NumPad3:
                         {
                             Console.Clear();
-                            Console.WriteLine("Pig Description");
-                            Console.WriteLine("1. What's the Pig Name? ");
-                            Console.WriteLine("2: What do Porky eat?");
-                            Console.WriteLine("3: How fast is Porky? ");
-                            Console.WriteLine("4: When does Porky sleep? ");
+                            Console.WriteLine("1.Pig Description");
+                            Console.WriteLine("2. What's the Pig Name? ");
+                            Console.WriteLine("3. What do Porky eat?");
+                            Console.WriteLine("4. How fast is Porky? ");
+                            Console.WriteLine("5. When does Porky sleep? ");
                             var value = Console.ReadLine();
 
                             if (value == "1")
